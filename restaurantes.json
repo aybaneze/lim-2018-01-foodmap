@@ -1,0 +1,296 @@
+[
+	{
+		"NomRestaurant": "Puro Perú Buffet Gourmet",
+		"direccion": "Av. República de Panamá 258",
+		"TipoComida": "buffet",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Sóngoro Cosongo",
+		"direccion": "Jirón Ayacucho 281",
+		"TipoComida": "comida tradicional",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "La posada del Mirador",
+		"direccion": "Ermita 104",
+		"TipoComida": "comida tradicional",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Veggie Pizza",
+		"direccion": "Jr. Colina 112",
+		"TipoComida": "pizza",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Cala",
+		"direccion": "Circuito de Playas",
+		"TipoComida": "pescados & Mariscos",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Las vecinas",
+		"direccion": "Jirón Domeyer 219",
+		"TipoComida": "desayuno",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "la trastienda",
+		"direccion": " Boulevard Bordemar",
+		"TipoComida": " Circuito de Playas 15063",
+		"Distrito": "criollas"
+	},
+	{
+		"NomRestaurant": "Refilo Sangucheria",
+		"direccion": "Av. Almirante Miguel Grau 393",
+		"TipoComida": "Hamburguesas",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Belgicius ",
+		"direccion": "Nicolas de Pierola 132",
+		"TipoComida": "Hamburguesas",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Vicios Burger",
+		"direccion": "Panama 143",
+		"TipoComida": "Hamburguesas",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Germinando Vida",
+		"direccion": "Av. Almirante Miguel Grau 209",
+		"TipoComida": "vegetariana",
+		"Distrito": "Barranco"
+	},
+	{
+		"NomRestaurant": "Restaurant Vegetariano Sayel",
+		"direccion": "Calle Cantuarias 285",
+		"TipoComida": "vegetariana",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "Sabor y Vida",
+		"direccion": "Calle Gral Recavarren 156",
+		"TipoComida": "vegetariana",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "Restaurant tai-i Vegetariano",
+		"direccion": "Av. Petit Thouars 5232",
+		"TipoComida": "vegetariana",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "super Rueda",
+		"direccion": "Av. Jose Pardo 1224",
+		"TipoComida": "comida Rapida",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "la pava Sanguich",
+		"direccion": "Av. Comandante Espinar 847",
+		"TipoComida": "comida Rapida",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "Burger King ",
+		"direccion": "av. Jose larco 201",
+		"TipoComida": "comida Rapida",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "Morelia Pizza a La Parrilla",
+		"direccion": "Calle Atahualpa 196",
+		"TipoComida": "pizza",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "Mamma lola",
+		"direccion": "av. Ernesto diez Canseco 119",
+		"TipoComida": "pizza",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "La mar cebicheria",
+		"direccion": "Av. Mariscar la mar 770",
+		"TipoComida": "cebicheria",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "La casa del ceviche",
+		"direccion": "Av. 28 de julio 331",
+		"TipoComida": "cebicheria",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "Anticuchos grimanesa",
+		"direccion": "calle Ignacio Merino 466",
+		"TipoComida": "anticucheria",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "La casa de los anticuchos",
+		"direccion": "Calle Enrique Palacios 1292",
+		"TipoComida": "anticucheria",
+		"Distrito": "Miraflores"
+	},
+	{
+		"NomRestaurant": "anticuchos Doña pochita",
+		"direccion": "Av ignacio Merino 2316",
+		"TipoComida": "anticucheria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Jugueria don lucho ",
+		"direccion": "av. Petit thouars 1786",
+		"TipoComida": "jugueria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "jugueria el tambo",
+		"direccion": "Av ignacio Merino 2283",
+		"TipoComida": "jugueria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Pollos Hilton",
+		"direccion": "Julio Cesar Tello 802",
+		"TipoComida": "Polleria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Pollos Begui",
+		"direccion": "Av. Arequipa 2183",
+		"TipoComida": "Polleria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Miami chicken criollo",
+		"direccion": "av. Arequipa 2364",
+		"TipoComida": "Polleria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Pollos a la brasa dragón",
+		"direccion": "Av. Juan Pardo de Zela 165",
+		"TipoComida": "Polleria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Mayo's Cebicheria ",
+		"direccion": "Av. Ignacio Merino 1600",
+		"TipoComida": "cebicheria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "El cebiche de Ronald",
+		"direccion": "Av. Ignacio Merino 2427",
+		"TipoComida": "cebicheria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "el chinguirito",
+		"direccion": "jr francisco de zela 2048",
+		"TipoComida": "cebicheria",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "La estrellita del sur",
+		"direccion": "jr pedro conde 413",
+		"TipoComida": "restaurant",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Restaurant vegetariano Sampe's",
+		"direccion": "jr tomás Guido 168",
+		"TipoComida": "vegetariana",
+		"Distrito": "Lince"
+	},
+	{
+		"NomRestaurant": "Mamá Raquel Comida Casera",
+		"direccion": "av. Dionisio Derteano 115",
+		"TipoComida": "comida tradicional",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Restaurante de comida coreana ",
+		"direccion": "Calle las orquideas 447",
+		"TipoComida": "comida coreana",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Loreta",
+		"direccion": "Av. Victor Andres Belaunde 208",
+		"TipoComida": "restaurant",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Aromas Peruanos ",
+		"direccion": "Av. Guardia Civil 856",
+		"TipoComida": "comida tradicional",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "McDonald's",
+		"direccion": "Av. Javier prado este 130",
+		"TipoComida": "comida rapida",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "KFC",
+		"direccion": "Av. Gral Juan Antonio Pezet 1311",
+		"TipoComida": "comida rapida",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "picogallo",
+		"direccion": "Av. Los Conquistadores 510",
+		"TipoComida": "comida rapida",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Señor limon",
+		"direccion": "av. Guillermo Prescott 415",
+		"TipoComida": "cebicheria",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "El kapallaq Restaurant ",
+		"direccion": "Av. Dos de Mayo 748",
+		"TipoComida": "cebicheria",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Segundo Muelle",
+		"direccion": "Av. Los Conquistadores 490",
+		"TipoComida": "cebicheria",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Fusion Marina",
+		"direccion": "Av. Petit Thouars 3735",
+		"TipoComida": "cebicheria",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Anticuchos Doña Pochita",
+		"direccion": "Av. Ignacio Merino 2316",
+		"TipoComida": "anticucheria",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "Anticuchos Doña Manuela",
+		"direccion": "Jose Domingo Choquehuanca 499",
+		"TipoComida": "anticucheria",
+		"Distrito": "San isidro"
+	},
+	{
+		"NomRestaurant": "la linterna",
+		"direccion": "Calle los Libertadores 311",
+		"TipoComida": "pizza",
+		"Distrito": "San isidro"
+	}
+]
