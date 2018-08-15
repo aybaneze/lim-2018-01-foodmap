@@ -19,7 +19,12 @@ console.log(distrito);
                             <p style="font-size:20px;">`+ restCity[i].NomRestaurant+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].direccion+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].TipoComida+ `</p>
-                             <button id="boton" onclick="" type="button"> Información </button>
+                             <button id="boton" onclick="document.getElementById('id01').style.display='block'" type="button"> Información </button>
+                             <div id="id01" class="w3-modal w3-animate-zoom" onclick="this.style.display='none'">
+                             <div class="w3-container w3-card w3-white w3-round w3-margin" style="width:50%;height:100%;">
+                              <p>`+restCity[i].NomRestaurant+`</p>
+                             </div>
+                             </div>
                           </div> 
                           <div class="divImg">
                              <img id="imgLogo" src="`+ restCity[i].TipoComida+`">
