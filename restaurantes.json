@@ -4,7 +4,7 @@
 		"direccion": "Av. República de Panamá 258",
 		"TipoComida": "buffet",
         "Distrito": "Barranco",
-        "imagen": "imagenes/puroPeru.jpg"
+		"imagen": "imagenes/puroPeru.jpg"
 	},
 	{
 		"NomRestaurant": "Sóngoro Cosongo",

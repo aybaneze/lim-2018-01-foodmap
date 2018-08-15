@@ -78,7 +78,8 @@ p{
 
 #imgLogo{
     height: 100%;
-    margin-top: 4%;
+    margin-top: 15px;
+    width: 95%;
 }
 
 .divText{
