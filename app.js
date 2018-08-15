@@ -1,11 +1,9 @@
-
-
-// function redirect(){ 
-//   window.location= "indexInicio.html";
-// }
-// const splash = () => {
-// window.setTimeout("redirect()",2000)}
-// window.onload= splash; 
+function redirect(){ 
+  window.location.href= "indexInicio.html";
+}
+const splash = () => {
+window.setTimeout("redirect()",2000)}
+window.onload= splash; 
 
 let restaurant= "https://raw.githubusercontent.com/aybaneze/lim-2018-01-foodmap/master/restaurantes.json";
 let TypeFood=[];
@@ -28,7 +26,7 @@ console.log(distrito);
                              <p style="font-size:20px;">`+ restCity[i].direccion+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].TipoComida+ `</p>
                              <img src="`+restCity[i].imagen+`">
-                          <button onclick="" type="button"> Información </button>
+                           <button onclick="" type="button"> Información </button>
                           </div>`;
      
       
@@ -51,8 +49,5 @@ function Seleccionar(){
 }
 
 const btnBuscar= document.getElementById('btnBuscar');
-// let userText = document.getElementById('UserText').value;
-
-  
 
 btnBuscar.addEventListener('click', abc);
