@@ -34,3 +34,20 @@ p{
     width: 20%;
     margin-top: 20px;
 }
+
+.ImgCentral{
+    width: 40%;
+    height: 30%;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+#lugares{
+    font-size: 25px;
+    width: 100%;
+    height: 10px;
+    text-align: center;
+}
+.map{
+    background: #000000;
+}

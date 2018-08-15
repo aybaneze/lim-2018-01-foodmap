@@ -3,13 +3,15 @@
 		"NomRestaurant": "Puro Perú Buffet Gourmet",
 		"direccion": "Av. República de Panamá 258",
 		"TipoComida": "buffet",
-		"Distrito": "Barranco"
+        "Distrito": "Barranco",
+        "imagen": "imagenes/logo.png"
 	},
 	{
 		"NomRestaurant": "Sóngoro Cosongo",
 		"direccion": "Jirón Ayacucho 281",
 		"TipoComida": "comida tradicional",
-		"Distrito": "Barranco"
+        "Distrito": "Barranco",
+        "imagen": "imagenes/logoFoodMap.png"
 	},
 	{
 		"NomRestaurant": "La posada del Mirador",
@@ -37,9 +39,9 @@
 	},
 	{
 		"NomRestaurant": "la trastienda",
-		"direccion": " Boulevard Bordemar",
-		"TipoComida": " Circuito de Playas 15063",
-		"Distrito": "criollas"
+		"direccion": " Circuito de Playas 15063",
+		"TipoComida": "comida criolla",
+		"Distrito": "Barranco"
 	},
 	{
 		"NomRestaurant": "Refilo Sangucheria",
