@@ -18,15 +18,15 @@ console.log(distrito);
                              <p style="font-size:20px;">`+ restCity[i].NomRestaurant+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].direccion+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].TipoComida+ `</p>
-                             <img style="width:50%;height:100px;" src="`+ restCity[i].imagen +`">
+                             <img  src="`+ restCity[i].imagen +`">
                            <button onclick="" type="button"> Información </button>
                           </div></center>`;
-     
+     console.log(restCity[i].imagen)
       
     }
    else
 {
- // alert("No selecciono nada")
+  // alert("No selecciono nada")
 }
 console.log(restCity[i].NomRestaurant)
 }});}

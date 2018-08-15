@@ -4,7 +4,7 @@
 		"direccion": "Av. República de Panamá 258",
 		"TipoComida": "buffet",
         "Distrito": "Barranco",
-        "imagen": "imagenes/puro-peru.jpg"
+        "imagen": "imagenes/puroPeru.jpg"
 	},
 	{
 		"NomRestaurant": "Sóngoro Cosongo",
@@ -18,26 +18,28 @@
 		"direccion": "Ermita 104",
 		"TipoComida": "comida tradicional",
         "Distrito": "Barranco",
-        "imagen": "https://content.emarket.pe/uploads/sites/22/2015/02/1400000008203.jpg"
+        "imagen": "imagenes/laPosadaDelmirador"
 	},
 	{
 		"NomRestaurant": "Veggie Pizza",
 		"direccion": "Jr. Colina 112",
 		"TipoComida": "pizza",
         "Distrito": "Barranco",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-m7D7AGDPJ0USRX5dAOgY1fw1m1pj1KB6cZD9sotmRVa6_fGi"
+        "imagen": "imagenes/veggiepizza.jpg"
 	},
 	{
 		"NomRestaurant": "Cala",
 		"direccion": "Circuito de Playas",
 		"TipoComida": "pescados & Mariscos",
-		"Distrito": "Barranco"
+        "Distrito": "Barranco",
+        "imagen": "imagenes/cala.png"
 	},
 	{
 		"NomRestaurant": "Las vecinas",
 		"direccion": "Jirón Domeyer 219",
 		"TipoComida": "desayuno",
-		"Distrito": "Barranco"
+        "Distrito": "Barranco",
+        "imagen": "imagenes/lasvecinas.jpg"
 	},
 	{
 		"NomRestaurant": "la trastienda",
