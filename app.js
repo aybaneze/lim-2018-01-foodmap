@@ -1,14 +1,7 @@
-function redirect(){ 
-  window.location.href= "indexInicio.html";
-}
-const splash = () => {
-window.setTimeout("redirect()",2000)}
-window.onload= splash; 
-
 let restaurant= "https://raw.githubusercontent.com/aybaneze/lim-2018-01-foodmap/master/restaurantes.json";
 let TypeFood=[];
 
-const abc = () =>{
+const FunctionCities = () =>{
  fetch(restaurant)
 .then(dateJson => dateJson.json() )
 .then((restCity)=>{ 
@@ -50,4 +43,4 @@ function Seleccionar(){
 
 const btnBuscar= document.getElementById('btnBuscar');
 
-btnBuscar.addEventListener('click', abc);
+btnBuscar.addEventListener('click', FunctionCities);
