@@ -14,13 +14,13 @@ console.log(distrito);
 
     if(OptDistrito.value == distrito )
     {
-     content.innerHTML+=`<div class="w3-container w3-card w3-white w3-round w3-margin" style="width:95%;height:200px;" >
+     content.innerHTML+=`<center><div class="w3-container w3-card w3-white w3-round w3-margin" style="width:95%;height:200px;" >
                              <p style="font-size:20px;">`+ restCity[i].NomRestaurant+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].direccion+ `</p>
                              <p style="font-size:20px;">`+ restCity[i].TipoComida+ `</p>
-                             <img src="`+restCity[i].imagen+`">
+                             <img style="width:50%;height:100px;" src="`+ restCity[i].imagen +`">
                            <button onclick="" type="button"> Información </button>
-                          </div>`;
+                          </div></center>`;
      
       
     }

@@ -4,26 +4,28 @@
 		"direccion": "Av. República de Panamá 258",
 		"TipoComida": "buffet",
         "Distrito": "Barranco",
-        "imagen": "imagenes/logo.png"
+        "imagen": "imagenes/puro-peru.jpg"
 	},
 	{
 		"NomRestaurant": "Sóngoro Cosongo",
 		"direccion": "Jirón Ayacucho 281",
 		"TipoComida": "comida tradicional",
         "Distrito": "Barranco",
-        "imagen": "imagenes/logoFoodMap.png"
+        "imagen": "imagenes/veggiepizza.jpg"
 	},
 	{
 		"NomRestaurant": "La posada del Mirador",
 		"direccion": "Ermita 104",
 		"TipoComida": "comida tradicional",
-		"Distrito": "Barranco"
+        "Distrito": "Barranco",
+        "imagen": "https://content.emarket.pe/uploads/sites/22/2015/02/1400000008203.jpg"
 	},
 	{
 		"NomRestaurant": "Veggie Pizza",
 		"direccion": "Jr. Colina 112",
 		"TipoComida": "pizza",
-		"Distrito": "Barranco"
+        "Distrito": "Barranco",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-m7D7AGDPJ0USRX5dAOgY1fw1m1pj1KB6cZD9sotmRVa6_fGi"
 	},
 	{
 		"NomRestaurant": "Cala",
