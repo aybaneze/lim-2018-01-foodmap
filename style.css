@@ -22,7 +22,7 @@ p{
 
 .form{
  text-align: center;
- margin-top: 10%;
+ margin-top: 5%;
 }
 
 .btnBuscar{
@@ -38,7 +38,7 @@ p{
 .ImgCentral{
     width: 40%;
     height: 30%;
-    margin-left: 45%;
+    margin-left: 32%;
     margin-top: 5%;
 }
 
@@ -50,4 +50,22 @@ p{
 }
 .map{
     background: #000000;
+}
+
+#boton{
+    width: 100%;
+    background: #f7dc46;
+    border: #f79646;
+    cursor: pointer;
+}
+.divImg{
+    border-radius: 100%;
+    width: 40%;
+    height: 80%;
+    float: left;
+}
+
+.divText{
+    float: right;
+    width: 50%;
 }
