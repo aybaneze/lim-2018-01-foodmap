@@ -23,16 +23,19 @@ p{
 .form{
  text-align: center;
  margin-top: 5%;
+ 
 }
 
 .btnBuscar{
-    background: #ec964f;
+    background: #eccf4f;
     color: #000000;
-    border-radius: 10px;
+    border-radius: 5px;
     border: none; 
-    height: 25px;
+    height: 45px;
     width: 20%;
     margin-top: 20px;
+    font-size: 30px;
+    cursor: pointer;
 }
 
 .ImgCentral{
@@ -65,7 +68,32 @@ p{
     float: left;
 }
 
+#imgLogo{
+    height: 100%;
+    margin-top: 4%;
+}
+
 .divText{
     float: right;
     width: 50%;
+    font-size:25px;
+    height: 70%;
+    margin-top: 20px;
+}
+
+#boton{
+    margin-top: 20px;
+    height: 30%;
+    font-size: 55%;
+
+}
+label{
+    font-size: 30px;
+}
+#SelectDistrito{
+    width: 15%;
+    height: 20%;
+    cursor: pointer;
+    margin: 10px;
+    
 }

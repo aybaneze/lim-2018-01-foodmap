@@ -45,13 +45,15 @@
 		"NomRestaurant": "la trastienda",
 		"direccion": " Circuito de Playas 15063",
 		"TipoComida": "comida criolla",
-		"Distrito": "Barranco"
+		"Distrito": "Barranco",
+		"imagen": "imagenes/latrastienda.jpg"
 	},
 	{
 		"NomRestaurant": "Refilo Sangucheria",
 		"direccion": "Av. Almirante Miguel Grau 393",
 		"TipoComida": "Hamburguesas",
-		"Distrito": "Barranco"
+		"Distrito": "Barranco",
+		"imagen": "imagenes/refilo.jpg"
 	},
 	{
 		"NomRestaurant": "Belgicius ",
