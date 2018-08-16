@@ -9,14 +9,14 @@
 	{
 		"NomRestaurant": "Sóngoro Cosongo",
 		"direccion": "Jirón Ayacucho 281",
-		"TipoComida": "comida tradicional",
+		"TipoComida": "tradicional",
         "Distrito": "Barranco",
         "imagen": "imagenes/veggiepizza.jpg"
 	},
 	{
 		"NomRestaurant": "La posada del Mirador",
 		"direccion": "Ermita 104",
-		"TipoComida": "comida tradicional",
+		"TipoComida": "tradicional",
         "Distrito": "Barranco",
         "imagen": "imagenes/laPosadaDelmirador"
 	},
@@ -32,7 +32,7 @@
 		"direccion": "Circuito de Playas",
 		"TipoComida": "pescados & Mariscos",
         "Distrito": "Barranco",
-        "imagen": "imagenes/cala.png"
+        "imagen": "imagenes/cala.jpg"
 	},
 	{
 		"NomRestaurant": "Las vecinas",
@@ -51,21 +51,23 @@
 	{
 		"NomRestaurant": "Refilo Sangucheria",
 		"direccion": "Av. Almirante Miguel Grau 393",
-		"TipoComida": "Hamburguesas",
+		"TipoComida": "hamburguesas",
 		"Distrito": "Barranco",
 		"imagen": "imagenes/refilo.jpg"
 	},
 	{
 		"NomRestaurant": "Belgicius ",
 		"direccion": "Nicolas de Pierola 132",
-		"TipoComida": "Hamburguesas",
-		"Distrito": "Barranco"
+		"TipoComida": "hamburguesas",
+		"Distrito": "Barranco",
+		"imagen": "https://fotografavegana.files.wordpress.com/2014/08/img_20140621_003637web.jpg"
 	},
 	{
 		"NomRestaurant": "Vicios Burger",
 		"direccion": "Panama 143",
-		"TipoComida": "Hamburguesas",
-		"Distrito": "Barranco"
+		"TipoComida": "hamburguesas",
+		"Distrito": "Barranco",
+		"imagen": "imagenes/refilo.jpg"
 	},
 	{
 		"NomRestaurant": "Germinando Vida",
@@ -77,7 +79,8 @@
 		"NomRestaurant": "Restaurant Vegetariano Sayel",
 		"direccion": "Calle Cantuarias 285",
 		"TipoComida": "vegetariana",
-		"Distrito": "Miraflores"
+		"Distrito": "Miraflores",
+		"imagen": "imagenes/cala.jpg"
 	},
 	{
 		"NomRestaurant": "Sabor y Vida",
@@ -94,19 +97,19 @@
 	{
 		"NomRestaurant": "super Rueda",
 		"direccion": "Av. Jose Pardo 1224",
-		"TipoComida": "comida Rapida",
+		"TipoComida": "rapida",
 		"Distrito": "Miraflores"
 	},
 	{
 		"NomRestaurant": "la pava Sanguich",
 		"direccion": "Av. Comandante Espinar 847",
-		"TipoComida": "comida Rapida",
+		"TipoComida": "rapida",
 		"Distrito": "Miraflores"
 	},
 	{
 		"NomRestaurant": "Burger King ",
 		"direccion": "av. Jose larco 201",
-		"TipoComida": "comida Rapida",
+		"TipoComida": "rapida",
 		"Distrito": "Miraflores"
 	},
 	{
@@ -166,25 +169,25 @@
 	{
 		"NomRestaurant": "Pollos Hilton",
 		"direccion": "Julio Cesar Tello 802",
-		"TipoComida": "Polleria",
+		"TipoComida": "polleria",
 		"Distrito": "Lince"
 	},
 	{
 		"NomRestaurant": "Pollos Begui",
 		"direccion": "Av. Arequipa 2183",
-		"TipoComida": "Polleria",
+		"TipoComida": "polleria",
 		"Distrito": "Lince"
 	},
 	{
 		"NomRestaurant": "Miami chicken criollo",
 		"direccion": "av. Arequipa 2364",
-		"TipoComida": "Polleria",
+		"TipoComida": "polleria",
 		"Distrito": "Lince"
 	},
 	{
 		"NomRestaurant": "Pollos a la brasa dragón",
 		"direccion": "Av. Juan Pardo de Zela 165",
-		"TipoComida": "Polleria",
+		"TipoComida": "polleria",
 		"Distrito": "Lince"
 	},
 	{
@@ -220,13 +223,13 @@
 	{
 		"NomRestaurant": "Mamá Raquel Comida Casera",
 		"direccion": "av. Dionisio Derteano 115",
-		"TipoComida": "comida tradicional",
+		"TipoComida": "tradicional",
 		"Distrito": "San isidro"
 	},
 	{
 		"NomRestaurant": "Restaurante de comida coreana ",
 		"direccion": "Calle las orquideas 447",
-		"TipoComida": "comida coreana",
+		"TipoComida": "coreana",
 		"Distrito": "San isidro"
 	},
 	{
@@ -238,25 +241,25 @@
 	{
 		"NomRestaurant": "Aromas Peruanos ",
 		"direccion": "Av. Guardia Civil 856",
-		"TipoComida": "comida tradicional",
+		"TipoComida": "tradicional",
 		"Distrito": "San isidro"
 	},
 	{
 		"NomRestaurant": "McDonald's",
 		"direccion": "Av. Javier prado este 130",
-		"TipoComida": "comida rapida",
+		"TipoComida": "rapida",
 		"Distrito": "San isidro"
 	},
 	{
 		"NomRestaurant": "KFC",
 		"direccion": "Av. Gral Juan Antonio Pezet 1311",
-		"TipoComida": "comida rapida",
+		"TipoComida": "rapida",
 		"Distrito": "San isidro"
 	},
 	{
 		"NomRestaurant": "picogallo",
 		"direccion": "Av. Los Conquistadores 510",
-		"TipoComida": "comida rapida",
+		"TipoComida": "rapida",
 		"Distrito": "San isidro"
 	},
 	{

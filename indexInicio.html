@@ -13,12 +13,30 @@
  <img class="ImgCentral" src="imagenes/logoFoodMap.png">
    <form class = "form">
     <label>Selecciona el distrito:</label><br>
-    <select id="SelectDistrito" onchange="Seleccionar()">
+    <select id="SelectDistrito" class = "selectO" onchange="Seleccionar()">
         <option>Seleccionar--</option>
-        <option value="Barranco" >Barranco</option>
-        <option value="Miraflores" >Miraflores</option>
+        <option value = "Barranco" >Barranco</option>
+        <option value = "Miraflores" >Miraflores</option>
         <option value = "Lince" >Lince</option>
         <option value = "San isidro">San Isidro</option>
+    </select><br>
+    <select id="SelectComida" class = "selectO" onchange="SeleccionarComida()">
+        <option value = "tod">Seleccionar--</option>
+        <option value = "tod">Todo Tipo De Comida</option>
+        <option value = "buf">Bufet</option>
+        <option value = "com">Comida criolla</option>
+        <option value = "piz">Pizza</option>
+        <option value = "pes">Pescados & Mariscos</option>
+        <option value = "veg">vegetariana</option>
+        <option value = "cor">Comida coreana</option>
+        <option value = "res">Restaurant</option>
+        <option value = "tra">Comida Tradicional</option>
+        <option value = "pol">Polleria</option>
+        <option value = "jug">Jugueria</option>
+        <option value = "ant">Anticucheria</option>
+        <option value = "cev">Cevicheria</option>
+        <option value = "rap">Comida Rapida</option>
+        <option value = "ham">Hamburguesas</option>
     </select><br>
     <button id= "btnBuscar" class="btnBuscar" type="button">Buscar</button>
      </form>

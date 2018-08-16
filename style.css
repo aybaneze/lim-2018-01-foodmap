@@ -94,7 +94,7 @@ label{
     font-size: 30px;
 }
 
-#SelectDistrito{
+.selectO{
     width: 25%;
     height: 30px;
     cursor: pointer;
